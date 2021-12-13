@@ -10,7 +10,7 @@ It's a simple script that disable the windows antivirus and start a reverse shel
 
  - Just get the code
  - Change the IP and the port to yours 
- - Encode it on ducktoolkit.com
+ - Encode it on https://ducktoolkit.com
  - Put the inject.bin in the SD card and RUN IT :)
 
 ## Known Issue

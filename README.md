@@ -1,6 +1,4 @@
-# Foobar
-
-USB Rubber Ducky Reverse Shell
+# USB Rubber Ducky Reverse Shell
 
 ## What ?
 
